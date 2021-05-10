@@ -54,6 +54,8 @@ a.article-title:hover {
 	height: 65px;
 	width: 65px;
 	margin-right: 16px;
+	display: inline;
+	vertical-align: top;
 }
 
 .article-metadata {
@@ -90,4 +92,13 @@ a.article-title:hover {
 
 .pic-block {
 	display: inline;
+}
+
+.article-home-page {
+	display: inline-block;
+}
+
+.title-inline {
+	display: inline-block;
+	margin-top: 10px;
 }
